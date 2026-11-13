@@ -59,7 +59,7 @@ export function Home() {
             <span className="eyebrow">
               <span className="h-1.5 w-1.5 rounded-full bg-sage-500" /> Head of School of Eastern Medicine
             </span>
-            <h1 className="mt-6 text-balance font-display text-4xl font-semibold leading-[1.05] text-forest-900 sm:text-5xl lg:text-6xl">
+            <h1 className="mt-6 text-balance font-display text-2xl font-semibold leading-[1.15] text-forest-900 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl">
               Bridging traditional healing with <span className="text-forest-600">modern science</span>.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-forest-700">
