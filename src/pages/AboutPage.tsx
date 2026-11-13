@@ -10,7 +10,7 @@ export default function AboutPage() {
            {/* Header - Off-White */}
       <div className="bg-[#e5e7eb] border-b border-forest-900/5 py-8 text-center">
         <span className="eyebrow mx-auto">About Us</span>
-        <h1 className="mt-4 font-display text-4xl font-semibold text-forest-900">Meet Dr. Shafqat Rasool</h1>
+        <h1 className="mt-4 font-display text-2xl font-semibold text-forest-900">Meet Dr. Shafqat Rasool</h1>
         <p className="mt-3 text-forest-600 max-w-xl mx-auto px-4">Eastern Medicine & Phytomedicine Practitioner</p>
       </div>
       
